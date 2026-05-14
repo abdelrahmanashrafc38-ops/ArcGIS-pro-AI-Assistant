@@ -93,7 +93,7 @@ The app opens at `http://localhost:8501`
 
 ---
 
-## 🌐 Deploy to Streamlit Cloud (Bonus)
+## 🌐 Deploy to Streamlit Cloud
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
